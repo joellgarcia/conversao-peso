@@ -1,0 +1,7 @@
+.vscode
+dist
+bin/
+obj/
+.gitignore
+README.md
+.dockerignore
